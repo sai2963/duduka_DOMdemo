@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 50px;
+}
+#main{
+    margin: 50px 20px;
+    background-color: bisque;
+}
+#body{
+    padding: 20px;
+}
+p{
+    font-size: 15px;
+}
+#btn1{
+    font-size: 20px;
+    background-color: azure;
+    border-radius: 5px;
+}
+#btn2{
+    font-size: 20px;
+    background-color: azure;
+    border-radius: 5px;
+}
+.bgcolor{
+    background-color: lightblue;
+}
